@@ -1,0 +1,12 @@
+.emphasis-title h1 {
+    color: #FFF;
+    text-shadow: 1px 1px 1px black;
+    font-size: 6em;
+}
+
+.back-image {
+	background-image: url('../images/custom/viaduct.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
