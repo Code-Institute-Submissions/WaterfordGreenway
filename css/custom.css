@@ -1,3 +1,4 @@
+
 .dark .slider-caption,
 .dark .slider-caption h2 {
 	color: #FFF;
@@ -5,6 +6,9 @@
 }
 
 
+.dark, .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+    color: #FFF;
+}
 
 .swiper-slide {
     position: relative;
@@ -21,8 +25,8 @@
     width: 100%;
     height: 100%;
     z-index: 1;
-    opacity: 0.4;
-    background-image: url('../images/custom/viaduct.jpg');
+    opacity: 0.6;
+    background-image: url('../images/custom/12.jpg');
     background-repeat: no-repeat;
     background-position: 50% 0;
     -ms-background-size: cover;
@@ -49,4 +53,42 @@
 body.stretched #header.full-header .container {
     width: 100%;
     padding: 0;
+}
+
+#map_container {
+    display: block;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+#grand-opening {
+    position: relative;
+    top: -100px;
+}
+
+.opening-container-left {
+    height: 500px;
+    background-image: url('../images/custom/coveney.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.opening-container-right {
+    height: 500px;
+    background-color: white;
+    padding: 25px;
+}
+
+.pathway {
+    height: 100px;
+}
+
+.team-title a h4:hover {
+    color: #8BBF37;
 }
