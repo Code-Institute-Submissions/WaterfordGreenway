@@ -92,3 +92,9 @@ body.stretched #header.full-header .container {
 .team-title a h4:hover {
     color: #8BBF37;
 }
+
+
+.white h2,
+.white h3 {
+    color: white;
+}
