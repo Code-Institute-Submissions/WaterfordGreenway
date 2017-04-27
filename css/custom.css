@@ -98,3 +98,7 @@ body.stretched #header.full-header .container {
 .white h3 {
     color: white;
 }
+
+#google-map {
+    top: 20px;
+}
