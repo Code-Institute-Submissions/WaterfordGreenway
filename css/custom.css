@@ -1,10 +1,9 @@
 
 .dark .slider-caption,
 .dark .slider-caption h2 {
-	color: #FFF;
-	text-shadow: 1px 1px 1px rgba(0,0,0,0.15);
+    color: #FFF;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
 }
-
 
 .dark, .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
     color: #FFF;
@@ -93,6 +92,9 @@ body.stretched #header.full-header .container {
     color: #8BBF37;
 }
 
+.team-social-icons {
+    padding-top: 40px;
+}
 
 .white h2,
 .white h3 {
@@ -102,3 +104,108 @@ body.stretched #header.full-header .container {
 #google-map {
     top: 20px;
 }
+
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+
+@media (max-width: 991px) {
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+}
+
+@media (max-width: 479px) {
+
+    #slider > .slider-parallax-inner > .swiper-container > .swiper-wrapper > .swiper-slide > .container > .slider-caption h2 {
+        position: relative;
+        top: 30px;
+    }
+
+    #header-wrap > .container > #logo {
+        -webkit-transform: scale(0.9, 0.9);
+        -moz-transform: scale(0.9, 0.9);
+        -ms-transform: scale(0.9, 0.9);
+        -o-transform: scale(0.9, 0.9);
+        transform: scale(0.9, 0.9);
+    }
+
+    .content-wrap {
+        position: relative;
+        padding: 40px 0;
+    }
+
+    .heading-block {
+        margin-bottom: 40px;
+    }
+
+    .postcontent, .postcontent.bothsidebar, .sidebar, .col_full, .col_half, .col_one_third, .col_two_third, .col_three_fourth, .col_one_fourth, .col_one_fifth, .col_two_fifth, .col_three_fifth, .col_four_fifth, .col_one_sixth, .col_five_sixth {
+        width: 100%;
+        margin-right: 0;
+        float: none;
+        margin-bottom: 20px !important;
+    }
+
+    .opening-container-right {
+        height: 500px;
+        background-color: white;
+        padding: 25px 0;
+    }
+
+    .opening-container-right > .feature-box {
+        text-align: justify;
+    }
+
+    #section-bike-hire > .heading-block {
+        position: relative;
+        top: -20px;
+    }
+
+    #section-bike-hire > .container {
+        position: relative;
+        top: -20px;
+    }
+
+    .team-title {
+        text-align: center;
+    }
+
+    .team-content {
+        text-align: justify;
+    }
+
+    #section-testimonials {
+        position: relative;
+        top: -70px;
+    }
+
+    #section-contact {
+        position: relative;
+        top: -70px;
+    }
+
+    #section-contact > .container {
+        position: relative;
+        top: -10px;
+    }
+
+    #section-contact > .container > .col_full {
+        position: relative;
+        top: 40px;
+    }
+
+    #section-contact > .container > .col_full > .col_one_third {
+        padding: 10px 0;
+    }
+
+    #footer > .container > .footer-widgets-wrap > .col_one_third > .subscribe-widget > #widget-subscribe-form {
+        position: relative;
+        top: 15px;
+    }
+
+}
+
+
+
