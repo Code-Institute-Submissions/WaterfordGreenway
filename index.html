@@ -203,7 +203,8 @@
                             </div>
                             <div class="fbox-desc">
                                 <h3>Walk<span class="subtitle">Sorry, Dog Not Included</span></h3>
-                                <p>You won't regret a sunny Sunday stroll here in Waterford. Bring your dog, bring your kids, we guarantee everyone involved will have a day to remember.</p>
+                                <p>You won't regret a sunny Sunday stroll here in Waterford. Bring your dog, bring your
+                                    kids, we guarantee everyone involved will have a day to remember.</p>
                             </div>
                         </div>
                     </div>
@@ -260,10 +261,15 @@
             </section>
 
             <section id="section-route" class="page-section topmargin-lg">
-
-                <div class="heading-block center">
+                <!-- Only one map heading shows at any given time, depending on screen size -->
+                <div id="map-heading-large" class="heading-block center">
                     <h2>Waterford <span>Greenway</span> Route & Points of Interest</h2>
                     <span>Hover over the map to Explore</span>
+                </div>
+
+                <div id="map-heading-mobile" class="heading-block center">
+                    <h2>Waterford <span>Greenway</span> Route & Points of Interest</h2>
+                    <span>Click the map to Explore</span>
                 </div>
 
                 <!-- Only one map container shows at any given time, depending on screen size -->
@@ -277,7 +283,7 @@
                 <div id="map_container_mobile" class="clearfix">
                     <div class="img-wrapper">
                         <a href="map.html">
-                        <img src="images/custom/map_small.jpg">
+                            <img src="images/custom/map_small.jpg">
                         </a>
                     </div>
                 </div>
