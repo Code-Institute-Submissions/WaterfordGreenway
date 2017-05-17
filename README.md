@@ -7,7 +7,7 @@ An redesign of the website for the recently opened Waterford Greenway.
 I do not own copyright for these images, do not reproduce.
 
 ## Getting Started
-
+This project does not need any installation. A live demo is being hosted on [Heroku](https://com-waterford-greenway.herokuapp.com/index.html)
 ### Prerequisites
 
 ### Local Server
