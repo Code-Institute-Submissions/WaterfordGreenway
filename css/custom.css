@@ -1,4 +1,3 @@
-
 .dark .slider-caption,
 .dark .slider-caption h2 {
     color: #FFF;
@@ -119,6 +118,8 @@ body.stretched #header.full-header .container {
 #google-map {
     top: 20px;
 }
+
+/* Custom Media Queries */
 
 @media (min-width: 992px) and (max-width: 1199px) {
 }
