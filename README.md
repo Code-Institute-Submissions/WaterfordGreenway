@@ -4,7 +4,7 @@ A redesign of the website for the recently opened Waterford Greenway.
 
 
 ## Qualification
-I do not own copyright for these images, do not reproduce.
+I do not own copyright for these images, and this is an exercise purely for educational purposes, do not reproduce.
 
 
 ## Getting Started
