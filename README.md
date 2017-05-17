@@ -2,13 +2,15 @@
 
 A redesign of the website for the recently opened Waterford Greenway.
 
+Current website can be viewed [here](http://www.visitwaterfordgreenway.com/)
+
 
 ## Qualification
-I do not own copyright for these images, and this is an exercise purely for educational purposes, do not reproduce.
+I do not own copyright for these images, and this is an exercise purely for educational purposes. Do not reproduce.
 
 
 ## Getting Started
-This project does not need any installation. A live demo is being hosted on [Heroku](https://com-waterford-greenway.herokuapp.com/index.html)
+This project does not need any installation. A live demo is being hosted on [Heroku](https://com-waterford-greenway.herokuapp.com/index.html).
 
 
 ## Built With
@@ -20,6 +22,10 @@ This project does not need any installation. A live demo is being hosted on [Her
 
 ## Testing
 Manual testing was undertaken for every feature of the website and satisfactorily passed.
+
+Each page was tested in various devices, screen sizes, and browsers.
+
+A/B testing was undertaken for a number of design questions with a number of people.
 
 
 ## Author
