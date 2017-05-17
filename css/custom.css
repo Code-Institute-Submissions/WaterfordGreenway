@@ -61,9 +61,13 @@ body.stretched #header.full-header .container {
     z-index: 1;
 }
 
+.img-wrapper {
+    position: relative;
+}
+
 #grand-opening {
     position: relative;
-    top: -100px;
+    top: 30px;
 }
 
 .opening-container-left {
