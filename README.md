@@ -28,11 +28,14 @@ Each page was tested in various devices, screen sizes, and browsers.
 A/B testing was undertaken for a number of design questions with a number of people.
 
 
+## Responsiveness
+Has been tested across multiple devices and browsers. Have yet to come across any undersired responsiveness issues.
+Chrome Inspector responsiveness tool is buggy and does not render the site as it does in real life tests.
+
 ## Author
 Brendan Long
 
-
 ## License
-This project is licensed under the MIT License.
+I do not own these images. Do not reproduce.
 
 
