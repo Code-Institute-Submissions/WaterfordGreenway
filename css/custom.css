@@ -131,12 +131,18 @@ body.stretched #header.full-header .container {
     .mobile-text {
         text-shadow: 1px 1px black;
     }
+
+    .extra-padding {
+        padding-bottom: 24px;
+    }
 }
 
 @media (max-width: 991px) {
     .mobile-text {
         text-shadow: 1px 1px black;
     }
+
+
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -164,6 +170,10 @@ body.stretched #header.full-header .container {
 
     .mobile-text {
         text-shadow: 1px 1px black;
+    }
+
+    .extra-padding {
+        padding-bottom: 24px;
     }
 }
 
@@ -193,6 +203,7 @@ body.stretched #header.full-header .container {
     .mobile-text {
         text-shadow: 1px 1px black;
     }
+
 }
 
 @media (max-width: 479px) {
