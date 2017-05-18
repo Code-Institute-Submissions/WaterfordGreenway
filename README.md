@@ -2,7 +2,7 @@
 
 A redesign of the website for the recently opened Waterford Greenway.
 
-The Greenway's current website (owned and operated by Waterford City and County Council) can be viewed [here](http://www.visitwaterfordgreenway.com/)
+The Greenway's current website (owned and operated by Waterford City and County Council) can be viewed [here](http://www.visitwaterfordgreenway.com/).
 
 
 ## Qualification
